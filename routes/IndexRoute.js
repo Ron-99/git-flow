@@ -10,7 +10,8 @@ router.get('/', (_, res) => {
         version: '1.0.2',
         author: 'Ronaldo Gomes',
         github: 'github.com/ron-99',
-        linkedin: 'https://www.linkedin.com/in/ron99/'
+        linkedin: 'https://www.linkedin.com/in/ron99/',
+        company: 'summit-bra'
     });
 });
 
